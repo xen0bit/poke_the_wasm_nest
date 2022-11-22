@@ -1,0 +1,2 @@
+GOARCH=wasm GOOS=js go build -o nested.wasm nested.go
+
